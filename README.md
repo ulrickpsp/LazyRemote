@@ -6,3 +6,7 @@ Allows to control WindowsPC from Android Phone:
 - Shutdown Control
 - Mouse control 
 - Open web sites on PC by copying desired link in Android device.
+
+
+
+Working version but still lot of work to do.
