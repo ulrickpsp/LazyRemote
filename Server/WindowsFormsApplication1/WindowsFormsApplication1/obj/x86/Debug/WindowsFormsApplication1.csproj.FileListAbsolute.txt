@@ -1,0 +1,75 @@
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InitialScreen.resources
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Forms.Shutdown.resources
+C:\Users\aaldridge\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VideoScreen.resources
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InitialScreen.resources
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Forms.Shutdown.resources
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VideoScreen.resources
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aaamiho\Desktop\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InitialScreen.resources
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Forms.Shutdown.resources
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VideoScreen.resources
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aaamiho\Desktop\Workspace\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.MainScreen.resources
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.ProcessMesages.resources
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Nuevo Archivo WinRAR ZIP\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Nuevo Archivo WinRAR ZIP\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Nuevo Archivo WinRAR ZIP\Server\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\file.html
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Vlc.DotNet.Core.dll
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Vlc.DotNet.Forms.dll
+C:\Users\aaldridge\Desktop\WorkspaceLocal\Proyectos\LazyRemote\Server\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Vlc.DotNet.Wpf.dll
